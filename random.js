@@ -1,7 +1,7 @@
 
 var lyrics = [
     "Shake it off, sh-shake it off!",
-    "God damn it I am tired.",
+    "to the left, to the left",
     "Ok, go!"
 ];
 module.exports = lyrics;
